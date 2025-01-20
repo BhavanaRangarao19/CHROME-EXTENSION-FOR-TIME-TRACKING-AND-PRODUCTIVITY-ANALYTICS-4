@@ -60,3 +60,7 @@ This project is licensed under the MIT License.
 
 ## Screenshots:
 
+![Image](https://github.com/user-attachments/assets/1d28f86b-40df-478e-a33a-f86a60f27710)
+![Image](https://github.com/user-attachments/assets/ac9274fa-0180-4103-acbc-87559e4004a4)
+![Image](https://github.com/user-attachments/assets/4716e4e9-bc93-4da2-afae-baa4d4b6ebc8)
+![Image](https://github.com/user-attachments/assets/49ad4975-79f0-4415-8aff-09c544bed585)
