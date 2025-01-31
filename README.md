@@ -1,18 +1,4 @@
-# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYSIS-4
-
-**COMPANY** : CODTECH IT SOLUTIONS
-
-**NAME** : BELLAMKONDA BHAVANA
-
-**INTERN ID** : CT08GHY
-
-**DOMAIN** : Full Stack Web Development
-
-**BATCH DURATION** : From December 25th, 2024 To January 25th, 2025
-
-**MENTOR NAME** : NEELA SANTHOSH
-
-# Chrome Extension - Time Tracker  
+# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYSIS
 
 The Time Tracker Chrome Extension is a productivity tool designed to help users monitor and analyze the time spent on various websites. This application provides valuable insights into browsing habits, enabling better time management through detailed logs and visualizations.
 
